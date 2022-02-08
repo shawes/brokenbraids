@@ -5,32 +5,32 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/blog
+  path: site/content/blog
   label: Blog
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/contact
+  path: site/content/contact
   label: Contact
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/faq
+  path: site/content/faq
   label: Faq
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/products
+  path: site/content/products
   label: Products
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/terms-conditions
+  path: site/content/terms-conditions
   label: Terms conditions
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content
+  path: site/content
   label: Pages
   create: all
   match: "*"
