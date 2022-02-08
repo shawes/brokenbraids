@@ -1,8 +1,8 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/hargo/examplesite/"
+baseURL = "brokenbraids-test.netlify.app"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
-theme = "hargo-hugo"
+title = "Brokenbraids | Brokenbraids Shop"
+theme = "brokenbraids"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
