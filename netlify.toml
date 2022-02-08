@@ -1,6 +1,6 @@
 [build]
-  publish = "brokenbraids/public"
-  command = "cd brokenbraids && hugo --gc --themesDir ../.."
+  publish = "site/public"
+  command = "cd site && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
