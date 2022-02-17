@@ -33,9 +33,22 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Products"
+  identifier = "products"
+  name = "Vintage Items"
   URL = "products/"
   weight = 1
+
+  [[menu.main]]
+  name = "Dresses"
+  url = "/products/dresses"
+  parent = "products"
+  weight = 1
+
+  [[menu.main]]
+  name = "Skirts"
+  url = "/products/skirts"
+  parent = "products"
+  weight = 2
 
   [[menu.main]]
   name = "Blog"
@@ -54,7 +67,7 @@ disqusShortname = ""
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Vintage"
   URL = "products/"
   weight = 1
 
