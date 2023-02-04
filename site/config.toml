@@ -109,7 +109,7 @@ disqusShortname = ""
 logo = "images/logo-flat.png"
 home = "Home"
 # Meta data
-description = Brokenbraids vintage clothing store"
+description = "Brokenbraids vintage clothing store"
 author = "steve"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
