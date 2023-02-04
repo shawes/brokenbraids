@@ -109,7 +109,7 @@ disqusShortname = ""
 logo = "images/logo-flat.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = Brokenbraids vintage clothing store"
 author = "steve"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -122,7 +122,7 @@ googleAnalitycsID = "" # Your ID
 email = "brokenbraids@gmail.com"
 location = "Singapore"
 # copyright
-copyright = "| Copyright &copy; 2021 [brokenbraids](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2023 [brokenbraids](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"

@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Broken Braids Vintage Store"
+  title : "Brokenbraids. Vintage Clothing Store"
   content : "Vintage clothing and accessories, sourced from Singapore and beyond."
   image : "images/banner.png"
   # button
@@ -17,7 +17,7 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About the clothes"
+  title : "About Brokenbraids"
   content : "All clothes shipped within Singapore only. Refunds can be requested if the clothing is returned in sold condition."
   image : "images/about.png"
 
