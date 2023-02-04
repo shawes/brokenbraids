@@ -51,6 +51,18 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
+  name = "Tops"
+  url = "/products/tops"
+  parent = "products"
+  weight = 3
+
+  [[menu.main]]
+  name = "Accessories"
+  url = "/products/accessories"
+  parent = "products"
+  weight = 4
+
+  [[menu.main]]
   name = "Blog"
   URL = "blog/"
   weight = 2
@@ -98,7 +110,7 @@ logo = "images/logo-flat.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "steve"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -110,7 +122,7 @@ googleAnalitycsID = "" # Your ID
 email = "brokenbraids@gmail.com"
 location = "Singapore"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 [brokenbraids](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"

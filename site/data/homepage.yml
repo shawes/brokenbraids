@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Broken Braids Vintage Store"
-  content : "Vintage clothes, sourced in Singapore and beyond."
+  content : "Vintage clothing and accessories, sourced from Singapore and beyond."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "About the clothes"
-  content : "All clothes shipped to Singapore. Money back garuntee."
+  content : "All clothes shipped within Singapore only. Refunds can be requested if the clothing is returned in sold condition."
   image : "images/about.png"
 
 
@@ -46,12 +46,12 @@ material:
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Skirts"
+    - title : "Tops"
       image : "images/material/material-2.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Tops"
+    - title : "Skirts"
       image : "images/material/material-3.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
@@ -89,7 +89,7 @@ video:
 ######################## Products #############################
 products:
   enable : true
-  title : "Products List"
+  title : "Vintage Items"
   # product item comes from "content/products"
 
 
